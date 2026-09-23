@@ -1,0 +1,8 @@
+{
+  "name": "MySchool Connect",
+  "description": "Secondary school learning and parent-school communication platform for Rwanda secondary education with dedicated student, parent, teacher, and admin portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
